@@ -12,6 +12,5 @@ export class Player {
 }
 
   
-  const player1 = new Player("Tara", 6);
-  console.log(player1.info())
+
  
